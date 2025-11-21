@@ -1,0 +1,11 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.6.0
+B	x1000f500+lIce elevation (m)
+J	A
+JA	A-94/60/15c
+JX	X15c/0
+R	-135/25/3/58r
+X	-1.5
+Y	-3.5
+@L	9
+END

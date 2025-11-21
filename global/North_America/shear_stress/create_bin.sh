@@ -1,5 +1,8 @@
 #! /bin/bash
 
+export PATH="/usr/local/bin:/opt/homebrew/bin:$PATH"
+alias awk='gawk'
+
 # Ice margin file for the desired time
 margin_file=../margins/12000.gmt
 

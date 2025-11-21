@@ -1,0 +1,873 @@
+North_America
+02
+Second run of North America
+null
+86
+83
+84
+5
+20
+0.25
+0.50
+icesheet_Evan_null_86_83_84_85.dat
+using modern topography
+../../North_America/margins/80000.gmt
+should not be using new projected info
+/Users/slight/Documents/icesheet/create_ss_grid
+ using user derived shear stress values
+ using user derived time variable shear stress adjustments
+ using user derived minimum shear stress values
+ finished create_ss_grid
+grdimage [INFORMATION]: Read header from file shear_stress.nc
+grdimage [INFORMATION]: netCDF grid shear_stress.nc has no default CPT.
+grdimage [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1
+grdimage [INFORMATION]: Map scale is 516.667 km per cm or 1:5.16667e+07.
+grdimage [INFORMATION]: Allocate and read data from file shear_stress.nc
+grdimage [INFORMATION]: Reading grid from file shear_stress.nc
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for all edges: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for left   edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for right  edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for bottom edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for top    edge: natural
+grdimage [INFORMATION]: gmt_cpt_default: Use specific CPT: shades_shearstress.cpt
+grdimage [INFORMATION]: Reading CPT from File shades_shearstress.cpt
+grdimage [INFORMATION]: Evaluate image pixel colors
+grdimage [INFORMATION]: Basic z(x,y) -> color image with no illumination.
+grdimage [INFORMATION]: Plotting 24-bit color image
+PSL: Colormap of 18 colors created
+PSL: DEFLATE compressed 1847241 to 19447 bytes (98.9% savings at compression level 5)
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File shear_stress_domains.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psxy [INFORMATION]: Plotting segment 52
+psxy [INFORMATION]: Plotting segment 53
+psxy [INFORMATION]: Plotting segment 54
+psxy [INFORMATION]: Plotting segment 55
+psxy [INFORMATION]: Plotting segment 56
+psxy [INFORMATION]: Plotting segment 57
+psxy [INFORMATION]: Plotting segment 58
+psxy [INFORMATION]: Plotting segment 59
+psxy [INFORMATION]: Plotting segment 60
+psxy [INFORMATION]: Plotting segment 61
+psxy [INFORMATION]: Plotting segment 62
+psxy [INFORMATION]: Plotting segment 63
+psxy [INFORMATION]: Plotting segment 64
+psxy [INFORMATION]: Plotting segment 65
+psxy [INFORMATION]: Plotting segment 66
+psxy [INFORMATION]: Plotting segment 67
+psxy [INFORMATION]: Plotting segment 68
+psxy [INFORMATION]: Plotting segment 69
+psxy [INFORMATION]: Plotting segment 70
+psxy [INFORMATION]: Plotting segment 71
+psxy [INFORMATION]: Plotting segment 72
+psxy [INFORMATION]: Plotting segment 73
+psxy [INFORMATION]: Plotting segment 74
+psxy [INFORMATION]: Plotting segment 75
+psxy [INFORMATION]: Plotting segment 76
+psxy [INFORMATION]: Plotting segment 77
+psxy [INFORMATION]: Plotting segment 78
+psxy [INFORMATION]: Plotting segment 79
+psxy [INFORMATION]: Plotting segment 80
+psxy [INFORMATION]: Plotting segment 81
+psxy [INFORMATION]: Plotting segment 82
+psxy [INFORMATION]: Plotting segment 83
+psxy [INFORMATION]: Plotting segment 84
+psxy [INFORMATION]: Plotting segment 85
+psxy [INFORMATION]: Plotting segment 86
+psxy [INFORMATION]: Plotting segment 87
+psxy [INFORMATION]: Plotting segment 88
+psxy [INFORMATION]: Plotting segment 89
+psxy [INFORMATION]: Plotting segment 90
+psxy [INFORMATION]: Plotting segment 91
+psxy [INFORMATION]: Plotting segment 92
+psxy [INFORMATION]: Plotting segment 93
+psxy [INFORMATION]: Plotting segment 94
+psxy [INFORMATION]: Plotting segment 95
+psxy [INFORMATION]: Plotting segment 96
+psxy [INFORMATION]: Plotting segment 97
+psxy [INFORMATION]: Plotting segment 98
+psxy [INFORMATION]: Plotting segment 99
+psxy [INFORMATION]: Plotting segment 100
+psxy [INFORMATION]: Plotting segment 101
+psxy [INFORMATION]: Plotting segment 102
+psxy [INFORMATION]: Plotting segment 103
+psxy [INFORMATION]: Plotting segment 104
+psxy [INFORMATION]: Plotting segment 105
+psxy [INFORMATION]: Plotting segment 106
+psxy [INFORMATION]: Plotting segment 107
+psxy [INFORMATION]: Plotting segment 108
+psxy [INFORMATION]: Plotting segment 109
+psxy [INFORMATION]: Plotting segment 110
+psxy [INFORMATION]: Plotting segment 111
+psxy [INFORMATION]: Plotting segment 112
+psxy [INFORMATION]: Plotting segment 113
+psxy [INFORMATION]: Plotting segment 114
+psxy [INFORMATION]: Plotting segment 115
+psxy [INFORMATION]: Plotting segment 116
+psxy [INFORMATION]: Plotting segment 117
+psxy [INFORMATION]: Plotting segment 118
+psxy [INFORMATION]: Plotting segment 119
+psxy [INFORMATION]: Plotting segment 120
+psxy [INFORMATION]: Plotting segment 121
+psxy [INFORMATION]: Plotting segment 122
+psxy [INFORMATION]: Plotting segment 123
+psxy [INFORMATION]: Plotting segment 124
+psxy [INFORMATION]: Plotting segment 125
+psxy [INFORMATION]: Plotting segment 126
+psxy [INFORMATION]: Plotting segment 127
+psxy [INFORMATION]: Plotting segment 128
+psxy [INFORMATION]: Plotting segment 129
+psxy [INFORMATION]: Plotting segment 130
+psxy [INFORMATION]: Plotting segment 131
+psxy [INFORMATION]: Plotting segment 132
+psxy [INFORMATION]: Plotting segment 133
+psxy [INFORMATION]: Plotting segment 134
+psxy [INFORMATION]: Plotting segment 135
+psxy [INFORMATION]: Plotting segment 136
+psxy [INFORMATION]: Plotting segment 137
+psxy [INFORMATION]: Plotting segment 138
+psxy [INFORMATION]: Plotting segment 139
+psxy [INFORMATION]: Plotting segment 140
+psxy [INFORMATION]: Plotting segment 141
+psxy [INFORMATION]: Plotting segment 142
+psxy [INFORMATION]: Plotting segment 143
+psxy [INFORMATION]: Plotting segment 144
+psxy [INFORMATION]: Plotting segment 145
+psxy [INFORMATION]: Plotting segment 146
+psxy [INFORMATION]: Plotting segment 147
+psxy [INFORMATION]: Plotting segment 148
+psxy [INFORMATION]: Plotting segment 149
+psxy [INFORMATION]: Plotting segment 150
+psxy [INFORMATION]: Plotting segment 151
+psxy [INFORMATION]: Plotting segment 152
+psxy [INFORMATION]: Plotting segment 153
+psxy [INFORMATION]: Plotting segment 154
+psxy [INFORMATION]: Plotting segment 155
+psxy [INFORMATION]: Plotting segment 156
+psxy [INFORMATION]: Plotting segment 157
+psxy [INFORMATION]: Plotting segment 158
+psxy [INFORMATION]: Plotting segment 159
+psxy [INFORMATION]: Plotting segment 160
+psxy [INFORMATION]: Plotting segment 161
+psxy [INFORMATION]: Plotting segment 162
+psxy [INFORMATION]: Plotting segment 163
+psxy [INFORMATION]: Plotting segment 164
+psxy [INFORMATION]: Plotting segment 165
+psxy [INFORMATION]: Plotting segment 166
+psxy [INFORMATION]: Plotting segment 167
+psxy [INFORMATION]: Plotting segment 168
+psxy [INFORMATION]: Plotting segment 169
+psxy [INFORMATION]: Plotting segment 170
+psxy [INFORMATION]: Plotting segment 171
+psxy [INFORMATION]: Plotting segment 172
+psxy [INFORMATION]: Plotting segment 173
+psxy [INFORMATION]: Plotting segment 174
+psxy [INFORMATION]: Plotting segment 175
+psxy [INFORMATION]: Plotting segment 176
+psxy [INFORMATION]: Plotting segment 177
+psxy [INFORMATION]: Plotting segment 178
+psxy [INFORMATION]: Plotting segment 179
+psxy [INFORMATION]: Plotting segment 180
+psxy [INFORMATION]: Plotting segment 181
+psxy [INFORMATION]: Plotting segment 182
+psxy [INFORMATION]: Plotting segment 183
+psxy [INFORMATION]: Plotting segment 184
+psxy [INFORMATION]: Plotting segment 185
+psxy [INFORMATION]: Plotting segment 186
+psxy [INFORMATION]: Plotting segment 187
+psxy [INFORMATION]: Plotting segment 188
+psxy [INFORMATION]: Plotting segment 189
+psxy [INFORMATION]: Plotting segment 190
+psxy [INFORMATION]: Plotting segment 191
+psxy [INFORMATION]: Plotting segment 192
+psxy [INFORMATION]: Plotting segment 193
+psxy [INFORMATION]: Plotting segment 194
+psxy [INFORMATION]: Plotting segment 195
+psxy [INFORMATION]: Plotting segment 196
+psxy [INFORMATION]: Plotting segment 197
+psxy [INFORMATION]: Plotting segment 198
+psxy [INFORMATION]: Plotting segment 199
+psxy [INFORMATION]: Plotting segment 200
+psxy [INFORMATION]: Plotting segment 201
+psxy [INFORMATION]: Plotting segment 202
+psxy [INFORMATION]: Plotting segment 203
+psxy [INFORMATION]: Plotting segment 204
+psxy [INFORMATION]: Plotting segment 205
+psxy [INFORMATION]: Plotting segment 206
+psxy [INFORMATION]: Plotting segment 207
+psxy [INFORMATION]: Plotting segment 208
+psxy [INFORMATION]: Plotting segment 209
+psxy [INFORMATION]: Plotting segment 210
+psxy [INFORMATION]: Plotting segment 211
+psxy [INFORMATION]: Plotting segment 212
+psxy [INFORMATION]: Plotting segment 213
+psxy [INFORMATION]: Plotting segment 214
+psxy [INFORMATION]: Plotting segment 215
+psxy [INFORMATION]: Plotting segment 216
+psxy [INFORMATION]: Plotting segment 217
+psxy [INFORMATION]: Plotting segment 218
+psxy [INFORMATION]: Plotting segment 219
+psxy [INFORMATION]: Plotting segment 220
+psxy [INFORMATION]: Plotting segment 221
+psxy [INFORMATION]: Plotting segment 222
+psxy [INFORMATION]: Plotting segment 223
+psxy [INFORMATION]: Plotting segment 224
+psxy [INFORMATION]: Plotting segment 225
+psxy [INFORMATION]: Plotting segment 226
+psxy [INFORMATION]: Plotting segment 227
+psxy [INFORMATION]: Plotting segment 228
+psxy [INFORMATION]: Plotting segment 229
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File ../margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File ../margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psscale [INFORMATION]: Processing input CPT
+psscale [INFORMATION]: Reading CPT from File shades_shearstress.cpt
+psscale [INFORMATION]:   CPT range from 0 to 200000
+psscale [INFORMATION]: Without -R -J we must select default font sizes and dimensions regardless of plot size
+psscale [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 56444.3
+psscale [INFORMATION]: Map scale is 22.2222 km per cm or 1:2.22222e+06.
+finished: margins/split_margin.1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+finished: margins/split_margin.10
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+finished: margins/split_margin.11
+finished: margins/split_margin.12
+finished: margins/split_margin.13
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+finished: margins/split_margin.14
+finished: margins/split_margin.15
+finished: margins/split_margin.16
+finished: margins/split_margin.17
+finished: margins/split_margin.18
+finished: margins/split_margin.19
+finished: margins/split_margin.2
+finished: margins/split_margin.20
+finished: margins/split_margin.21
+finished: margins/split_margin.22
+finished: margins/split_margin.23
+finished: margins/split_margin.24
+finished: margins/split_margin.25
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+finished: margins/split_margin.26
+finished: margins/split_margin.27
+finished: margins/split_margin.28
+finished: margins/split_margin.29
+finished: margins/split_margin.3
+finished: margins/split_margin.30
+finished: margins/split_margin.31
+finished: margins/split_margin.32
+finished: margins/split_margin.33
+finished: margins/split_margin.34
+finished: margins/split_margin.35
+finished: margins/split_margin.36
+finished: margins/split_margin.37
+finished: margins/split_margin.38
+finished: margins/split_margin.39
+finished: margins/split_margin.4
+finished: margins/split_margin.40
+finished: margins/split_margin.41
+finished: margins/split_margin.42
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+finished: margins/split_margin.43
+finished: margins/split_margin.44
+finished: margins/split_margin.45
+finished: margins/split_margin.46
+finished: margins/split_margin.47
+finished: margins/split_margin.48
+finished: margins/split_margin.49
+finished: margins/split_margin.5
+finished: margins/split_margin.50
+finished: margins/split_margin.51
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+finished: margins/split_margin.52
+finished: margins/split_margin.6
+finished: margins/split_margin.7
+finished: margins/split_margin.8
+finished: margins/split_margin.9
+grdmask [WARNING]: (x_max-x_min) must equal (NX + eps) * x_inc), where NX is an integer and |eps| <= 0.0001.
+grdmask [WARNING]: (y_max-y_min) must equal (NY + eps) * y_inc), where NY is an integer and |eps| <= 0.0001.
+grdmask (gmtapi_init_grdheader): Please select compatible -R and -I values
+surface [INFORMATION]: Internally speed up convergence by using the larger region -R-125000/7875000/-25000/5975000 (go from 1550 x 1190 to optimal 1600 x 1200, with speedup-factor 1.7228094)
+surface [INFORMATION]: Grid domain: W: 0 E: 7750000 S: 0 N: 5950000 n_columns: 1600 n_rows: 1200 [gridline registration]
+surface [INFORMATION]: Processing input table data
+surface [INFORMATION]: Reading Data Table from file reconstruction_thickness.txt
+surface [INFORMATION]: Minimum value of your dataset x,y,z at: 5840000 5050000 -357.35559082
+surface [INFORMATION]: Maximum value of your dataset x,y,z at: 5790000 5090000 1575.21826172
+surface [INFORMATION]: Eliminate data points that are not nearest a node.
+surface [INFORMATION]: Plane fit z = 112.583 + (0.109027 * col) + (-0.0878342 * row)
+surface [INFORMATION]: Normalize detrended data constraints by z rms = 175.21
+surface [INFORMATION]: Select default convergence limit of 0.017521 (100 ppm of L2 scale)
+surface [INFORMATION]: Recompute data index for next iteration [stride = 400]
+surface [INFORMATION]: ------------------------------------------
+surface [INFORMATION]: Memory for data array          :    1.5 Mb
+surface [INFORMATION]: Memory for final grid          :    7.4 Mb
+surface [INFORMATION]: Memory for Briggs coefficients :    1.5 Mb
+surface [INFORMATION]: Memory for node status         :    1.8 Mb
+surface [INFORMATION]: ------------------------------------------
+surface [INFORMATION]: Total memory use               :   12.2 Mb
+surface [INFORMATION]: ==========================================
+surface [INFORMATION]: Grid	Mode	Iteration	Max Change	Conv Limit	Total Iterations
+surface [INFORMATION]: Set finite-difference coefficients [stride = 400]
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 400]
+surface [INFORMATION]:  400	D	      61	4.2519790562e-05	4.38024344919e-05	        61
+surface [INFORMATION]: Recompute data index for next iteration [stride = 80]
+surface [INFORMATION]: Expand grid by factor of 5 when going from stride = 400 to 80
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 80]
+surface [INFORMATION]:   80	I	     187	0.000212684620622	0.00021901217246	       248
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 80]
+surface [INFORMATION]:   80	D	     163	0.000213598410599	0.00021901217246	       411
+surface [INFORMATION]: Recompute data index for next iteration [stride = 16]
+surface [INFORMATION]: Expand grid by factor of 5 when going from stride = 80 to 16
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 16]
+surface [INFORMATION]:   16	I	     153	0.00105862570558	0.0010950608623	       564
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 16]
+surface [INFORMATION]:   16	D	    8000	0.0176969138775	0.0010950608623	      8564
+surface [INFORMATION]: Recompute data index for next iteration [stride = 8]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 16 to 8
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 8]
+surface [INFORMATION]:    8	I	      30	0.00188286427823	0.0021901217246	      8594
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 8]
+surface [INFORMATION]:    8	D	    4000	0.00355852667582	0.0021901217246	     12594
+surface [INFORMATION]: Recompute data index for next iteration [stride = 4]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 8 to 4
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 4]
+surface [INFORMATION]:    4	I	      28	0.00340969313091	0.00438024344919	     12622
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 4]
+surface [INFORMATION]:    4	D	    2000	0.0154823438322	0.00438024344919	     14622
+surface [INFORMATION]: Recompute data index for next iteration [stride = 2]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 4 to 2
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 2]
+surface [INFORMATION]:    2	I	      24	0.00848613920692	0.00876048689839	     14646
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 2]
+surface [INFORMATION]:    2	D	    1000	0.0821876425534	0.00876048689839	     15646
+surface [INFORMATION]: Recompute data index for next iteration [stride = 1]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 2 to 1
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 1]
+surface [INFORMATION]:    1	I	      20	0.0150071730365	0.0175209737968	     15666
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 1]
+surface [INFORMATION]:    1	D	     500	0.140580193719	0.0175209737968	     16166
+surface [INFORMATION]: Compute rms misfit and curvature.
+surface [INFORMATION]: Fit info: N data points  N nodes	mean error	rms error	curvature
+surface [INFORMATION]: 	   65222	 1922801	0	0	125603.334074
+surface [INFORMATION]: Increase pad by 25 25 5 5
+surface [INFORMATION]: Writing grid to file ice_thickness_raw.nc
+blockmedian [WARNING]: (x_max-x_min) must equal (NX + eps) * x_inc), where NX is an integer and |eps| <= 0.0001.
+blockmedian [WARNING]: (y_max-y_min) must equal (NY + eps) * y_inc), where NY is an integer and |eps| <= 0.0001.
+blockmedian (gmtapi_init_grdheader): Please select compatible -R and -I values
+surface [WARNING]: (x_max-x_min) must equal (NX + eps) * x_inc), where NX is an integer and |eps| <= 0.0001.
+surface [WARNING]: (y_max-y_min) must equal (NY + eps) * y_inc), where NY is an integer and |eps| <= 0.0001.
+surface (gmtapi_init_grdheader): Please select compatible -R and -I values
+surface [INFORMATION]: Internally speed up convergence by using the larger region -R-119845.360825/7869845.36082/-199664.42953/6189597.31544 (go from 194 x 149 to optimal 200 x 160, with speedup-factor 64.754781)
+surface [WARNING]: (x_max-x_min) must equal (NX + eps) * x_inc), where NX is an integer and |eps| <= 0.0001.
+surface [WARNING]: (y_max-y_min) must equal (NY + eps) * y_inc), where NY is an integer and |eps| <= 0.0001.
+surface (gmtapi_init_grdheader): Please select compatible -R and -I values
+surface [INFORMATION]: Grid domain: W: 0 E: 7750000 S: 0 N: 5950000 n_columns: 200 n_rows: 160 [gridline registration]
+surface [INFORMATION]: Processing input table data
+surface [INFORMATION]: Reading Data Table from file reconstruction_thickness_coarse.txt
+surface [INFORMATION]: Minimum value of your dataset x,y,z at: 5033505 5750335.5 1
+surface [INFORMATION]: Maximum value of your dataset x,y,z at: 5512886.5 4712080.5 1053.49084473
+surface [INFORMATION]: Eliminate data points that are not nearest a node.
+surface [INFORMATION]: Plane fit z = -148.309 + (2.21305 * col) + (0.657138 * row)
+surface [INFORMATION]: Normalize detrended data constraints by z rms = 224.043
+surface [INFORMATION]: Select default convergence limit of 0.0224043 (100 ppm of L2 scale)
+surface [INFORMATION]: Recompute data index for next iteration [stride = 40]
+surface [INFORMATION]: ------------------------------------------
+surface [INFORMATION]: Memory for data array          :   64.8 kb
+surface [INFORMATION]: Memory for final grid          :  132.2 kb
+surface [INFORMATION]: Memory for Briggs coefficients :   64.8 kb
+surface [INFORMATION]: Memory for node status         :   33.0 kb
+surface [INFORMATION]: ------------------------------------------
+surface [INFORMATION]: Total memory use               :  294.9 kb
+surface [INFORMATION]: ==========================================
+surface [INFORMATION]: Grid	Mode	Iteration	Max Change	Conv Limit	Total Iterations
+surface [INFORMATION]: Set finite-difference coefficients [stride = 40]
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 40]
+surface [INFORMATION]:   40	D	      69	0.000485209690983	0.000560107872406	        69
+surface [INFORMATION]: Recompute data index for next iteration [stride = 8]
+surface [INFORMATION]: Expand grid by factor of 5 when going from stride = 40 to 8
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 8]
+surface [INFORMATION]:    8	I	     147	0.0027189890588	0.00280053936203	       216
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 8]
+surface [INFORMATION]:    8	D	    1911	0.00279937656142	0.00280053936203	      2127
+surface [INFORMATION]: Recompute data index for next iteration [stride = 4]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 8 to 4
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 4]
+surface [INFORMATION]:    4	I	      25	0.00438383012177	0.00560107872406	      2152
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 4]
+surface [INFORMATION]:    4	D	    2000	0.0700199430109	0.00560107872406	      4152
+surface [INFORMATION]: Recompute data index for next iteration [stride = 2]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 4 to 2
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 2]
+surface [INFORMATION]:    2	I	      21	0.0105356375778	0.0112021574481	      4173
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 2]
+surface [INFORMATION]:    2	D	    1000	0.0575743947704	0.0112021574481	      5173
+surface [INFORMATION]: Recompute data index for next iteration [stride = 1]
+surface [INFORMATION]: Expand grid by factor of 2 when going from stride = 2 to 1
+surface [INFORMATION]: Fill in expanded grid by bilinear interpolation [stride = 1]
+surface [INFORMATION]:    1	I	      17	0.0190262959613	0.0224043148962	      5190
+surface [INFORMATION]: Determine nearest point and set Briggs coefficients [stride = 1]
+surface [INFORMATION]:    1	D	     500	0.0809321585194	0.0224043148962	      5690
+surface [INFORMATION]: Compute rms misfit and curvature.
+surface [INFORMATION]: Fit info: N data points  N nodes	mean error	rms error	curvature
+surface [INFORMATION]: 	    2766	   32361	0	0	4571.29125289
+surface [INFORMATION]: Increase pad by 3 3 5 6
+surface [INFORMATION]: Writing grid to file ice_thickness_raw_coarse.nc
+grdimage [INFORMATION]: Read header from file ice_thickness.nc
+grdimage [INFORMATION]: netCDF grid ice_thickness.nc has no default CPT.
+grdimage [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1
+grdimage [INFORMATION]: Map scale is 516.667 km per cm or 1:5.16667e+07.
+grdimage [INFORMATION]: Allocate and read data from file ice_thickness.nc
+grdimage [INFORMATION]: Reading grid from file ice_thickness.nc
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for all edges: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for left   edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for right  edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for bottom edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for top    edge: natural
+grdimage [INFORMATION]: gmt_cpt_default: Use specific CPT: shades_ice.cpt
+grdimage [INFORMATION]: Reading CPT from File shades_ice.cpt
+grdimage [INFORMATION]: Evaluate image pixel colors
+grdimage [INFORMATION]: Basic z(x,y) -> color image with no illumination.
+grdimage [INFORMATION]: Plotting 24-bit color image
+PSL: Colormap of 8 colors created
+PSL: Image depth reduced to 4 bits
+PSL: DEFLATE compressed 924216 to 13741 bytes (98.5% savings at compression level 5)
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psscale [INFORMATION]: Processing input CPT
+psscale [INFORMATION]: Reading CPT from File shades_ice.cpt
+psscale [INFORMATION]:   CPT range from 0 to 5000
+psscale [INFORMATION]: Without -R -J we must select default font sizes and dimensions regardless of plot size
+psscale [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1411.11
+psscale [INFORMATION]: Map scale is 0.555555 km per cm or 1:55555.5.
+grdsample [WARNING]: (x_max-x_min) must equal (NX + eps) * x_inc), where NX is an integer and |eps| <= 0.0001.
+grdsample [WARNING]: (y_max-y_min) must equal (NY + eps) * y_inc), where NY is an integer and |eps| <= 0.0001.
+grdsample (gmtapi_init_grdheader): Please select compatible -R and -I values
+grdsample [WARNING]: Output sampling interval in x exceeds input interval and may lead to aliasing.
+grdsample [WARNING]: Output sampling interval in y exceeds input interval and may lead to aliasing.
+grdimage [INFORMATION]: Read header from file North_America.nc
+grdimage [INFORMATION]: netCDF grid North_America.nc has no default CPT.
+grdimage [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1
+grdimage [INFORMATION]: Map scale is 516.667 km per cm or 1:5.16667e+07.
+grdimage [INFORMATION]: Allocate and read data from file North_America.nc
+grdimage [INFORMATION]: Reading grid from file North_America.nc
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for all edges: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for left   edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for right  edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for bottom edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for top    edge: natural
+grdimage [INFORMATION]: gmt_cpt_default: Use specific CPT: shades.cpt
+grdimage [INFORMATION]: Reading CPT from File shades.cpt
+grdimage [INFORMATION]: Evaluate image pixel colors
+grdimage [INFORMATION]: Basic z(x,y) -> color image with no illumination.
+grdimage [INFORMATION]: Plotting 24-bit color image
+PSL: Too many colors to make colormap - using 24-bit direct color instead.
+PSL: DEFLATE compressed 5541723 to 1598992 bytes (71.1% savings at compression level 5)
+grdimage [INFORMATION]: Read header from file ice_topo.nc
+grdimage [INFORMATION]: netCDF grid ice_topo.nc has no default CPT.
+grdimage [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1
+grdimage [INFORMATION]: Map scale is 516.667 km per cm or 1:5.16667e+07.
+grdimage [INFORMATION]: Allocate and read data from file ice_topo.nc
+grdimage [INFORMATION]: Reading grid from file ice_topo.nc
+grdimage [INFORMATION]: Longitude range too small; geographic boundary condition changed to natural.
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for all edges: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for left   edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for right  edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for bottom edge: natural
+grdimage [INFORMATION]: gmt_grd_BC_set: Set boundary condition for top    edge: natural
+grdimage [INFORMATION]: gmt_cpt_default: Use specific CPT: iceshades.cpt
+grdimage [INFORMATION]: Reading CPT from File iceshades.cpt
+grdimage [INFORMATION]: Evaluate image pixel colors
+grdimage [INFORMATION]: Basic z(x,y) -> color image with no illumination.
+grdimage [INFORMATION]: Plotting 24-bit color image
+PSL: Colormap of 38 colors created
+PSL: DEFLATE compressed 1847241 to 293689 bytes (84.1% savings at compression level 5)
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psscale [INFORMATION]: Processing input CPT
+psscale [INFORMATION]: Reading CPT from File iceshades.cpt
+psscale [INFORMATION]:   CPT range from 0 to 4000
+psscale [INFORMATION]: Without -R -J we must select default font sizes and dimensions regardless of plot size
+psscale [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1128.89
+psscale [INFORMATION]: Map scale is 0.444444 km per cm or 1:44444.4.

@@ -1,4 +1,6 @@
 #! /bin/bash
+export PATH="/usr/local/bin:/opt/homebrew/bin:$PATH"
+alias awk='gawk'
 
 # setup for global ice sheet reconstructions
 
@@ -29,23 +31,23 @@ seq ${max_time} -${interval} 0 > times_to_calculate
 
 # for sanity sake, I'm setting it up to do one region at a time, and combine them afterwards
 
-#region=North_America
+region=North_America
 #region=Eurasia
 #region=Antarctica
-region=Patagonia
+#region=Patagonia
 
 # information that will be put into the file ${region}/run_info.txt
 # !!!!!!!! very important !!!!!!!!!, change this number for every run, the run number will be used to identify a GIA deformation run!
 # also include your name, this will make it possible to distinguish run numbers from different authors
-run_number="90" 
+run_number="02" 
 your_name="Evan" # no spaces or underscores!
-run_description="Second run of North America run with a1_high_ss - Patagonia"
+run_description="Second run of North America"
 
 
 # if you want to use an alternative margin chronology, turn this switch on. By default, it searches for a margin in the folder, and if it is not found, it will
 # take the default margins
-folder_on="true"
-folder="a1"
+folder_on="false"
+folder=""
 
 # shear stress adjustment file
 shear_adjustment="adjust_0.txt"
@@ -85,7 +87,7 @@ Antarctica_run_number=84
 Patagonia_run_number=85
 
 # if instead you want present day topography, set ${earth_model} to null
-#earth_model="null" 
+earth_model="null" 
 
 
 

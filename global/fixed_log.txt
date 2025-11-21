@@ -1,0 +1,404 @@
+North_America
+02
+Second run of North America
+null
+86
+83
+84
+5
+20
+0.25
+0.50
+icesheet_Evan_null_86_83_84_85.dat
+using modern topography
+../../North_America/margins/80000.gmt
+should not be using new projected info
+/Users/slight/Documents/icesheet/create_ss_grid
+At line 103 of file create_ss_grid.f90 (unit = 30, file = 'ss_parameters.txt')
+Fortran runtime error: Bad integer for item 1 in list input
+
+Error termination. Backtrace:
+#0  0x1030e6103
+#1  0x1030e6cd7
+#2  0x1030e75a7
+#3  0x1031ff033
+#4  0x103200f0f
+#5  0x1032019eb
+#6  0x102d29913
+#7  0x102d2b55f
+ using user derived shear stress values
+ using user derived time variable shear stress adjustments
+ using user derived minimum shear stress values
+xyz2grd [ERROR]: Cannot find file shear_stress_grid.txt
+xyz2grd [ERROR]: File shear_stress_grid.txt not found
+[Session gmt (0)]: Error returned from GMT API: GMT_FILE_NOT_FOUND (16)
+grdimage [ERROR]: Cannot find file shear_stress.nc
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 1
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File shear_stress_domains.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psxy [INFORMATION]: Plotting segment 52
+psxy [INFORMATION]: Plotting segment 53
+psxy [INFORMATION]: Plotting segment 54
+psxy [INFORMATION]: Plotting segment 55
+psxy [INFORMATION]: Plotting segment 56
+psxy [INFORMATION]: Plotting segment 57
+psxy [INFORMATION]: Plotting segment 58
+psxy [INFORMATION]: Plotting segment 59
+psxy [INFORMATION]: Plotting segment 60
+psxy [INFORMATION]: Plotting segment 61
+psxy [INFORMATION]: Plotting segment 62
+psxy [INFORMATION]: Plotting segment 63
+psxy [INFORMATION]: Plotting segment 64
+psxy [INFORMATION]: Plotting segment 65
+psxy [INFORMATION]: Plotting segment 66
+psxy [INFORMATION]: Plotting segment 67
+psxy [INFORMATION]: Plotting segment 68
+psxy [INFORMATION]: Plotting segment 69
+psxy [INFORMATION]: Plotting segment 70
+psxy [INFORMATION]: Plotting segment 71
+psxy [INFORMATION]: Plotting segment 72
+psxy [INFORMATION]: Plotting segment 73
+psxy [INFORMATION]: Plotting segment 74
+psxy [INFORMATION]: Plotting segment 75
+psxy [INFORMATION]: Plotting segment 76
+psxy [INFORMATION]: Plotting segment 77
+psxy [INFORMATION]: Plotting segment 78
+psxy [INFORMATION]: Plotting segment 79
+psxy [INFORMATION]: Plotting segment 80
+psxy [INFORMATION]: Plotting segment 81
+psxy [INFORMATION]: Plotting segment 82
+psxy [INFORMATION]: Plotting segment 83
+psxy [INFORMATION]: Plotting segment 84
+psxy [INFORMATION]: Plotting segment 85
+psxy [INFORMATION]: Plotting segment 86
+psxy [INFORMATION]: Plotting segment 87
+psxy [INFORMATION]: Plotting segment 88
+psxy [INFORMATION]: Plotting segment 89
+psxy [INFORMATION]: Plotting segment 90
+psxy [INFORMATION]: Plotting segment 91
+psxy [INFORMATION]: Plotting segment 92
+psxy [INFORMATION]: Plotting segment 93
+psxy [INFORMATION]: Plotting segment 94
+psxy [INFORMATION]: Plotting segment 95
+psxy [INFORMATION]: Plotting segment 96
+psxy [INFORMATION]: Plotting segment 97
+psxy [INFORMATION]: Plotting segment 98
+psxy [INFORMATION]: Plotting segment 99
+psxy [INFORMATION]: Plotting segment 100
+psxy [INFORMATION]: Plotting segment 101
+psxy [INFORMATION]: Plotting segment 102
+psxy [INFORMATION]: Plotting segment 103
+psxy [INFORMATION]: Plotting segment 104
+psxy [INFORMATION]: Plotting segment 105
+psxy [INFORMATION]: Plotting segment 106
+psxy [INFORMATION]: Plotting segment 107
+psxy [INFORMATION]: Plotting segment 108
+psxy [INFORMATION]: Plotting segment 109
+psxy [INFORMATION]: Plotting segment 110
+psxy [INFORMATION]: Plotting segment 111
+psxy [INFORMATION]: Plotting segment 112
+psxy [INFORMATION]: Plotting segment 113
+psxy [INFORMATION]: Plotting segment 114
+psxy [INFORMATION]: Plotting segment 115
+psxy [INFORMATION]: Plotting segment 116
+psxy [INFORMATION]: Plotting segment 117
+psxy [INFORMATION]: Plotting segment 118
+psxy [INFORMATION]: Plotting segment 119
+psxy [INFORMATION]: Plotting segment 120
+psxy [INFORMATION]: Plotting segment 121
+psxy [INFORMATION]: Plotting segment 122
+psxy [INFORMATION]: Plotting segment 123
+psxy [INFORMATION]: Plotting segment 124
+psxy [INFORMATION]: Plotting segment 125
+psxy [INFORMATION]: Plotting segment 126
+psxy [INFORMATION]: Plotting segment 127
+psxy [INFORMATION]: Plotting segment 128
+psxy [INFORMATION]: Plotting segment 129
+psxy [INFORMATION]: Plotting segment 130
+psxy [INFORMATION]: Plotting segment 131
+psxy [INFORMATION]: Plotting segment 132
+psxy [INFORMATION]: Plotting segment 133
+psxy [INFORMATION]: Plotting segment 134
+psxy [INFORMATION]: Plotting segment 135
+psxy [INFORMATION]: Plotting segment 136
+psxy [INFORMATION]: Plotting segment 137
+psxy [INFORMATION]: Plotting segment 138
+psxy [INFORMATION]: Plotting segment 139
+psxy [INFORMATION]: Plotting segment 140
+psxy [INFORMATION]: Plotting segment 141
+psxy [INFORMATION]: Plotting segment 142
+psxy [INFORMATION]: Plotting segment 143
+psxy [INFORMATION]: Plotting segment 144
+psxy [INFORMATION]: Plotting segment 145
+psxy [INFORMATION]: Plotting segment 146
+psxy [INFORMATION]: Plotting segment 147
+psxy [INFORMATION]: Plotting segment 148
+psxy [INFORMATION]: Plotting segment 149
+psxy [INFORMATION]: Plotting segment 150
+psxy [INFORMATION]: Plotting segment 151
+psxy [INFORMATION]: Plotting segment 152
+psxy [INFORMATION]: Plotting segment 153
+psxy [INFORMATION]: Plotting segment 154
+psxy [INFORMATION]: Plotting segment 155
+psxy [INFORMATION]: Plotting segment 156
+psxy [INFORMATION]: Plotting segment 157
+psxy [INFORMATION]: Plotting segment 158
+psxy [INFORMATION]: Plotting segment 159
+psxy [INFORMATION]: Plotting segment 160
+psxy [INFORMATION]: Plotting segment 161
+psxy [INFORMATION]: Plotting segment 162
+psxy [INFORMATION]: Plotting segment 163
+psxy [INFORMATION]: Plotting segment 164
+psxy [INFORMATION]: Plotting segment 165
+psxy [INFORMATION]: Plotting segment 166
+psxy [INFORMATION]: Plotting segment 167
+psxy [INFORMATION]: Plotting segment 168
+psxy [INFORMATION]: Plotting segment 169
+psxy [INFORMATION]: Plotting segment 170
+psxy [INFORMATION]: Plotting segment 171
+psxy [INFORMATION]: Plotting segment 172
+psxy [INFORMATION]: Plotting segment 173
+psxy [INFORMATION]: Plotting segment 174
+psxy [INFORMATION]: Plotting segment 175
+psxy [INFORMATION]: Plotting segment 176
+psxy [INFORMATION]: Plotting segment 177
+psxy [INFORMATION]: Plotting segment 178
+psxy [INFORMATION]: Plotting segment 179
+psxy [INFORMATION]: Plotting segment 180
+psxy [INFORMATION]: Plotting segment 181
+psxy [INFORMATION]: Plotting segment 182
+psxy [INFORMATION]: Plotting segment 183
+psxy [INFORMATION]: Plotting segment 184
+psxy [INFORMATION]: Plotting segment 185
+psxy [INFORMATION]: Plotting segment 186
+psxy [INFORMATION]: Plotting segment 187
+psxy [INFORMATION]: Plotting segment 188
+psxy [INFORMATION]: Plotting segment 189
+psxy [INFORMATION]: Plotting segment 190
+psxy [INFORMATION]: Plotting segment 191
+psxy [INFORMATION]: Plotting segment 192
+psxy [INFORMATION]: Plotting segment 193
+psxy [INFORMATION]: Plotting segment 194
+psxy [INFORMATION]: Plotting segment 195
+psxy [INFORMATION]: Plotting segment 196
+psxy [INFORMATION]: Plotting segment 197
+psxy [INFORMATION]: Plotting segment 198
+psxy [INFORMATION]: Plotting segment 199
+psxy [INFORMATION]: Plotting segment 200
+psxy [INFORMATION]: Plotting segment 201
+psxy [INFORMATION]: Plotting segment 202
+psxy [INFORMATION]: Plotting segment 203
+psxy [INFORMATION]: Plotting segment 204
+psxy [INFORMATION]: Plotting segment 205
+psxy [INFORMATION]: Plotting segment 206
+psxy [INFORMATION]: Plotting segment 207
+psxy [INFORMATION]: Plotting segment 208
+psxy [INFORMATION]: Plotting segment 209
+psxy [INFORMATION]: Plotting segment 210
+psxy [INFORMATION]: Plotting segment 211
+psxy [INFORMATION]: Plotting segment 212
+psxy [INFORMATION]: Plotting segment 213
+psxy [INFORMATION]: Plotting segment 214
+psxy [INFORMATION]: Plotting segment 215
+psxy [INFORMATION]: Plotting segment 216
+psxy [INFORMATION]: Plotting segment 217
+psxy [INFORMATION]: Plotting segment 218
+psxy [INFORMATION]: Plotting segment 219
+psxy [INFORMATION]: Plotting segment 220
+psxy [INFORMATION]: Plotting segment 221
+psxy [INFORMATION]: Plotting segment 222
+psxy [INFORMATION]: Plotting segment 223
+psxy [INFORMATION]: Plotting segment 224
+psxy [INFORMATION]: Plotting segment 225
+psxy [INFORMATION]: Plotting segment 226
+psxy [INFORMATION]: Plotting segment 227
+psxy [INFORMATION]: Plotting segment 228
+psxy [INFORMATION]: Plotting segment 229
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File ../margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psxy [INFORMATION]: Processing input table data
+psxy [INFORMATION]: gmt_map_setup perimeter search region: 0/360/24.89999998861344/90.
+psxy [INFORMATION]: Map scale is 516.745 km per cm or 1:5.16745e+07.
+psxy [INFORMATION]: Reading Data Table from File ../margins/80000.gmt
+psxy [INFORMATION]: Plotting segment 0
+psxy [INFORMATION]: Plotting segment 1
+psxy [INFORMATION]: Plotting segment 2
+psxy [INFORMATION]: Plotting segment 3
+psxy [INFORMATION]: Plotting segment 4
+psxy [INFORMATION]: Plotting segment 5
+psxy [INFORMATION]: Plotting segment 6
+psxy [INFORMATION]: Plotting segment 7
+psxy [INFORMATION]: Plotting segment 8
+psxy [INFORMATION]: Plotting segment 9
+psxy [INFORMATION]: Plotting segment 10
+psxy [INFORMATION]: Plotting segment 11
+psxy [INFORMATION]: Plotting segment 12
+psxy [INFORMATION]: Plotting segment 13
+psxy [INFORMATION]: Plotting segment 14
+psxy [INFORMATION]: Plotting segment 15
+psxy [INFORMATION]: Plotting segment 16
+psxy [INFORMATION]: Plotting segment 17
+psxy [INFORMATION]: Plotting segment 18
+psxy [INFORMATION]: Plotting segment 19
+psxy [INFORMATION]: Plotting segment 20
+psxy [INFORMATION]: Plotting segment 21
+psxy [INFORMATION]: Plotting segment 22
+psxy [INFORMATION]: Plotting segment 23
+psxy [INFORMATION]: Plotting segment 24
+psxy [INFORMATION]: Plotting segment 25
+psxy [INFORMATION]: Plotting segment 26
+psxy [INFORMATION]: Plotting segment 27
+psxy [INFORMATION]: Plotting segment 28
+psxy [INFORMATION]: Plotting segment 29
+psxy [INFORMATION]: Plotting segment 30
+psxy [INFORMATION]: Plotting segment 31
+psxy [INFORMATION]: Plotting segment 32
+psxy [INFORMATION]: Plotting segment 33
+psxy [INFORMATION]: Plotting segment 34
+psxy [INFORMATION]: Plotting segment 35
+psxy [INFORMATION]: Plotting segment 36
+psxy [INFORMATION]: Plotting segment 37
+psxy [INFORMATION]: Plotting segment 38
+psxy [INFORMATION]: Plotting segment 39
+psxy [INFORMATION]: Plotting segment 40
+psxy [INFORMATION]: Plotting segment 41
+psxy [INFORMATION]: Plotting segment 42
+psxy [INFORMATION]: Plotting segment 43
+psxy [INFORMATION]: Plotting segment 44
+psxy [INFORMATION]: Plotting segment 45
+psxy [INFORMATION]: Plotting segment 46
+psxy [INFORMATION]: Plotting segment 47
+psxy [INFORMATION]: Plotting segment 48
+psxy [INFORMATION]: Plotting segment 49
+psxy [INFORMATION]: Plotting segment 50
+psxy [INFORMATION]: Plotting segment 51
+psscale [INFORMATION]: Processing input CPT
+psscale [INFORMATION]: Reading CPT from File shades_shearstress.cpt
+psscale [INFORMATION]:   CPT range from 0 to 200000
+psscale [INFORMATION]: Without -R -J we must select default font sizes and dimensions regardless of plot size
+psscale [INFORMATION]: Linear projection implies y-axis distance exaggeration relative to the x-axis by a factor of 56444.3
+psscale [INFORMATION]: Map scale is 22.2222 km per cm or 1:2.22222e+06.
+grdconvert [ERROR]: Cannot find file shear_stress.nc
+mv: rename shear_stress.bin to ../shear_stress.bin: No such file or directory
+At line 196 of file grids.f90 (unit = 20, file = 'ss_parameters.txt')
+Fortran runtime error: Bad integer for item 1 in list input
+
+Error termination. Backtrace:
+#0  0x100602103
+#1  0x100602cd7
+#2  0x1006035a7
+#3  0x10071b033
+#4  0x10071cf0f
+#5  0x10071d9eb
+#6  0x100222a17
+#7  0x100220b3b
+#8  0x1002298bf
+/Users/slight/Documents/icesheet/global/run/80000
+icesheet failed to run

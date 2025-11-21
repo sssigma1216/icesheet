@@ -1,0 +1,11 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.6.0
+B	x100000f20000+lShear Stress (Pa)
+J	A
+JA	A-94/60/15c
+JX	X15c/0
+R	-135/25/3/58r
+X	-1
+Y	-3.5
+@L	3
+END
